@@ -49,39 +49,7 @@
       "values" : [ "true", "false" ],
       "required" : null,
       "render" : null
-    } ],
-    "groups" : {
-      "groups" : [ {
-        "name" : null,
-        "description" : "Pokaż ilości:",
-        "params" : [ {
-          "name" : "showNegative",
-          "id" : "showNegative",
-          "type" : "CHECKBOX",
-          "description" : null,
-          "defaultValue" : "on",
-          "values" : [ "on:ujemne" ],
-          "required" : null,
-          "render" : null
-        }, {
-          "name" : "showZeros",
-          "id" : "showZeros",
-          "type" : "CHECKBOX",
-          "description" : null,
-          "defaultValue" : "on",
-          "values" : [ "on:zerowe" ],
-          "required" : null,
-          "render" : null
-        }, {
-          "name" : "showPositive",
-          "id" : "showPositive",
-          "type" : "CHECKBOX",
-          "description" : null,
-          "defaultValue" : "on",
-          "values" : [ "on:dodatnie" ],
-          "required" : null,
-          "render" : null
-        } ]
+    }  ]
       } ]
     }
   },
