@@ -49,7 +49,7 @@
       "values" : [ "true", "false" ],
       "required" : null,
       "render" : null
-    }  ]
+    }  
       } ]
     }
   },
